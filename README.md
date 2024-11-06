@@ -21,4 +21,4 @@ Breif Summary, discussion and data
 
 Schema:
 
-![Sample Schem](https://github.com/jaikushwaha7/BI_Climate_Change_AOLSearch/blob/main/BI_Schema2.drawio.png)
+![Sample Schem](https://github.com/jaikushwaha7/BI_Climate_Change_AOLSearch/blob/main/BI_Schema2.drawio.svg)
